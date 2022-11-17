@@ -1,8 +1,6 @@
-import Pessoa from './pessoa.js';
-import './modulos/moduloA';
-import './assets';
+import Pessoa from "./pessoa.js";
 
 const atendente = new Pessoa();
 
-
 console.log(atendente.cumprimentar());
+ 

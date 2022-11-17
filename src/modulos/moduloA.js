@@ -1,4 +1,3 @@
-const moduloB = require('./moduloB');
-
+const moduloB = require("./moduloB");
 console.log(moduloB.saudacao());
-
+ 
